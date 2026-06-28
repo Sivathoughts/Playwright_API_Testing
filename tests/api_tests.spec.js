@@ -18,7 +18,7 @@ test('API PUT Request', async({request}) => {
         data: {
             "id": 1,
             "title": "Updated Title",
-            "body": "Updated Body",
+            "body": "Updated Body Request",
             "userId": 1
 }
         })  
